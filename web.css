@@ -1,0 +1,278 @@
+.topnav {
+    background-color: rgb(5, 4, 4);
+    overflow: hidden;
+    color: white;
+    text-indent: 10px;
+    font-size: x-large;
+}
+
+.s1 {
+    background-image: url("https://th.bing.com/th/id/R.165d33e393d18460300fb4b81fd4b2be?rik=ya6e%2f6w%2fzBzrwg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fLaptop-black-full-hd-wallpapers.jpg&ehk=gMeBh5sMbMZJlpeuWdUrWZ0xeVxbTfKyaZBFMhjA0qo%3d&risl=&pid=ImgRaw");
+    height:1000px;
+    background-size: cover;
+
+}
+.a1:link{
+    color:white;
+}
+.a1:visited{
+    color:white;
+}
+.a2:link{
+    color:#39b54a;
+    float: right;
+    font-size: x-large;
+    margin-right: 10px;
+}
+.a2:visited{
+    color:#39b54a
+}
+.s2{
+    background-color:#39b54a;
+    height: 500px;
+    padding:90px;
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+    width: 50px;
+    float: right;
+    
+
+}
+
+.fa-facebook {
+margin-right: 10px;
+    color: white;
+}
+
+.fa-twitter {
+    margin-right: 10px;
+    color: white;
+}
+
+.fa-linkedin {
+    margin-right: 10px;
+    
+    color: white;
+}
+
+.fa-instagram {
+    margin-right: 10px;
+    color: white;
+}
+.home{
+    color: white;
+    padding-left:50px;
+    display:flex;
+    margin:150px;
+    height: 500px;
+    justify-content: space-between;
+
+}
+#d1
+{
+    margin:50px;
+    padding:20px;
+    font-size: xx-large;
+}
+#d2
+{
+    margin:50px;
+    padding:20px;
+
+
+}
+
+#d3,#d4
+   {
+     border:1px solid;
+     height:50px;
+     width:200px;
+     text-align:center;
+     border-color: white;
+     color:white;
+     display:inline-block;
+     margin:50px;
+   }
+  
+   #he1{
+       color:white; font-family: "montserrat-medium",sans-serif;
+        font-size: 3.8rem;
+   }
+   .d5{
+    border-right:0.5px solid whitesmoke;
+    height:100px;
+    width:400px;
+    text-align:left;
+    border-color: white;
+    color:white;
+    display:inline-block;
+    margin:50px;
+   }
+   .d6{
+    display:flex; 
+    justify-content:space-between;  
+   }
+   .s3{
+    background-color:white;
+    text-align: center;
+    padding: 50px;
+    height: fit-content;
+
+}
+
+       table{
+        padding:75px; 
+        color:grey; 
+        margin:30px;
+
+       }
+       .s4{
+           background-color: black;
+           height:800px;
+           text-align: center;
+       }
+       .i1{
+           width:300px;
+           height: 400px;
+       }
+       .i1:hover{
+        opacity: 0.3;
+        filter: alpha(opacity=30);
+    }
+    #d3:hover{
+        opacity: 0.3;
+        filter:alpha(opacity=30);
+    }
+    #d4:hover
+    {
+        opacity: 0.3;
+        filter: alpha(opacity=30);
+    }
+    
+    .s5
+    {
+        background-color: rgb(214, 211, 211);
+        height:fit-content;
+        text-align: center;
+        padding:50px;
+        
+    }
+    .service{
+        text-align:center;
+        padding:50px;
+        width:850px;
+        height:150px;
+        border-bottom:1px solid rgb(82, 81, 81);
+       }
+    .services{
+        justify-content: center;
+        display:flex;
+        margin:30px;   
+    }
+       .service1{
+        text-align:center;
+        padding:50px;
+        width:850px;
+        height:100px;
+       }
+
+    .cicon{
+        font-size: 5.8rem;
+        color:rgb(80, 79, 79);
+        margin:5px;
+    }
+    .cicon:hover{
+        opacity: 0.3;
+        filter: alpha(opacity=30);
+    }
+    .clients{
+        display:inline-block;
+        border-bottom:1px solid grey;
+        text-align: center;
+        word-spacing: 30px;
+        width:700px;
+
+    }
+    .service2{
+        height:350px;
+        margin:100px;
+        text-align: center;}
+        #i2{
+            width:100px;
+            border-radius:50px ;
+
+        }
+        .s6{
+            background-image: url("https://th.bing.com/th/id/R.165d33e393d18460300fb4b81fd4b2be?rik=ya6e%2f6w%2fzBzrwg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fLaptop-black-full-hd-wallpapers.jpg&ehk=gMeBh5sMbMZJlpeuWdUrWZ0xeVxbTfKyaZBFMhjA0qo%3d&risl=&pid=ImgRaw");
+            height:fit-content;
+            text-align: center;
+        padding:50px;
+            
+        }
+        .contact1{
+            height:750px;
+        margin:150px;
+        padding:50px;
+        text-align: left;
+        width:700px;
+         }
+         .contact2{
+            height:750px;
+            margin:150px;
+            padding:50px;
+            text-align: left;
+            width:500px;
+
+        }
+        .contact{
+            display:flex;
+            height: fit-content;
+            justify-content:center;
+        }
+         input[type=text] {
+            background: transparent;
+            border-top: none;
+            border-left:none;
+            border-right: none;
+            border-bottom: 2px solid White;
+            width:600px;
+            margin-bottom:75px;
+            
+        }
+        textarea {
+            background: transparent;
+            border-top: none;
+            border-left:none;
+            border-right: none;
+            border-bottom: 2px solid White;
+            width:600px;
+            margin-bottom:75px;
+            height: 200px;
+        }
+        button{
+            width:600px;
+            background:#39b54a; 
+            color:white;
+            height: 50px;
+            border: none;
+        }
+         .p1{
+             color:#39b54a;
+             margin-bottom: 25px;
+             font-size: xx-large;
+         }
+         .p2{
+            color:grey;
+            margin-bottom: 25px;
+            font-size: x-large;
+
+         }
+    
+
+       
